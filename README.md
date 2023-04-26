@@ -1,2 +1,2 @@
 # Guerrilla
-Generate identities.
+Generates identities.
